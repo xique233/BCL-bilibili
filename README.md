@@ -7,6 +7,9 @@ This is a bilili lottery software, close to omnipotent~ If there is a BUG, pleas
 This software is partly open source, not completely open source.
 Thank you https://github.com/InJeCTrL/BiliCommentLottery
 
+# 下载 Download
+https://batgod.lanzoui.com/u/xique233
+
 # 功能
 
 - [x] 支持视频稿件AV号/BV号 Support video manuscript AV number/BV number
