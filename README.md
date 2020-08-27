@@ -1,6 +1,7 @@
 # BCL2.0
 这是一个bilili抽奖软件，接近全能~如果有BUG请及时反馈
 本软件部分开源，不完全开源
+
 感谢https://github.com/InJeCTrL/BiliCommentLottery
 
 This is a bilili lottery software, close to omnipotent~ If there is a BUG, please give feedback.
@@ -8,7 +9,13 @@ This software is partly open source, not completely open source.
 Thank you https://github.com/InJeCTrL/BiliCommentLottery
 
 # 下载 Download
-https://batgod.lanzoui.com/u/xique233
+本体下载：https://batgod.lanzoui.com/u/xique233
+download in：https://batgod.lanzoui.com/u/xique233 or github
+
+您可能需要运行库
+[X86](https://dotnet.microsoft.com/download/dotnet-core/thank-you/runtime-desktop-3.1.6-windows-x86-installer)
+
+[X64](https://dotnet.microsoft.com/download/dotnet-core/thank-you/runtime-desktop-3.1.6-windows-x64-installer)
 
 # 功能
 
